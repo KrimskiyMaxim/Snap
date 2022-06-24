@@ -23,7 +23,7 @@ import PackageDescription
 let package = Package(
     [...]
     dependencies: [
-        .package(url: "https://github.com/nerdsupremacist/Snap.git", from: "0.1.0")
+        .package(url: "https://github.com/KrimskiyMaxim/Snap.git", from: "0.1.0")
     ]
 )
 ```
